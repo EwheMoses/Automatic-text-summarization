@@ -1,2 +1,3 @@
 # Automatic-text-summarization
-summarizing text
+Summarizing President Barack Obama's inaugural address
+Using NLP.
